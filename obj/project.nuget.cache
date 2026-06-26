@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "i3sk29jSjzA=",
+  "success": true,
+  "projectFilePath": "/Users/yl424/Documents/GitHub/2025s2-project-1-YizeLin424/RayTracer.csproj",
+  "expectedPackageFiles": [
+    "/Users/yl424/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512",
+    "/Users/yl424/.nuget/packages/magick.net-q8-anycpu/14.7.0/magick.net-q8-anycpu.14.7.0.nupkg.sha512",
+    "/Users/yl424/.nuget/packages/magick.net.core/14.7.0/magick.net.core.14.7.0.nupkg.sha512",
+    "/Users/yl424/.nuget/packages/stbimagesharp/2.30.15/stbimagesharp.2.30.15.nupkg.sha512",
+    "/Users/yl424/.nuget/packages/stbimagewritesharp/1.16.7/stbimagewritesharp.1.16.7.nupkg.sha512"
+  ],
+  "logs": []
+}
